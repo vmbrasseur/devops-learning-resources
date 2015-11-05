@@ -15,6 +15,7 @@ Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com
 
 ## Books & Blogs
 
+* [DevOps Weekly](http://www.devopsweekly.com/): Weekly newsletter of all-things-DevOps
 * [Effective DevOps](http://shop.oreilly.com/product/0636920039846.do) by [Jennifer Davis](https://twitter.com/sigje) and [Katherine Daniels](https://twitter.com/beerops)
 * [Sysadmin Casts](https://sysadmincasts.com/): Bite-sized sysadmin screencasts (released weekly)
 
