@@ -19,6 +19,12 @@ Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com
 * [DevOps Weekly](http://www.devopsweekly.com/): Weekly newsletter of all-things-DevOps
 * [Effective DevOps](http://shop.oreilly.com/product/0636920039846.do) by [Jennifer Davis](https://twitter.com/sigje) and [Katherine Daniels](https://twitter.com/beerops)
 * [Sysadmin Casts](https://sysadmincasts.com/): Bite-sized sysadmin screencasts (released weekly)
+* [Server Density DevOps Newsletter](https://blog.serverdensity.com/devops-newsletter/)
+
+## Podcasts
+* [The Ship Show](http://theshipshow.com/)
+* [The Food Fight Show](http://foodfightshow.org/)
+* [Ops All The Things](https://www.opsallthethings.com/)
 
 ## Conferences & Meetups
 
