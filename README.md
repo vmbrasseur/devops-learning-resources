@@ -12,6 +12,7 @@ Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com
 * [CAT Braindump](http://braindump.cat.pdx.edu/) at [Portland State University](https://www.pdx.edu/) in Portland, Oregon, USA
 * [DevOps Bootcamp](http://devopsbootcamp.osuosl.org/) at [Oregon State University Open Source Lab (OSU OSL)](http://osuosl.org/) in Corvalis, Oregon, USA
 * [Master Programme in Network and System Administration](https://www.hioa.no/eng/Studies/TKD/Master/Network-and-System-Administration) at [Oslo and Akershus University College of Applied Sciences](https://www.hioa.no/eng) in Oslo, Norway
+* [Ops School Curriculum](http://www.opsschool.org) ([GitHub](https://github.com/opsschool/curriculum))
 
 ## Books & Blogs
 
