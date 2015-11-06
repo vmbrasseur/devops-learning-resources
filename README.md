@@ -32,3 +32,4 @@ Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com
 * [DevOps Days](http://www.devopsdays.org/)
 * [Monitorama](http://monitorama.com/)
 * [OpenStack Summit](https://www.openstack.org/summit/)
+* [Velocity](http://conferences.oreilly.com/velocity)
