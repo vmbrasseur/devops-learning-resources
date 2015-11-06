@@ -32,6 +32,7 @@ Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com
 
 * [AWS re:Invent](https://reinvent.awsevents.com/)
 * [DevOps Days](http://www.devopsdays.org/)
+* [Docker Meetups](https://www.docker.com/community/meetup-groups)
 * [Monitorama](http://monitorama.com/)
 * [OpenStack Summit](https://www.openstack.org/summit/)
-* [Docker Meetups](https://www.docker.com/community/meetup-groups)
+* [Velocity](http://conferences.oreilly.com/velocity)
