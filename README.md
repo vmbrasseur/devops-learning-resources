@@ -18,6 +18,7 @@ Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com
 * [DevOps Weekly](http://www.devopsweekly.com/): Weekly newsletter of all-things-DevOps
 * [Effective DevOps](http://shop.oreilly.com/product/0636920039846.do) by [Jennifer Davis](https://twitter.com/sigje) and [Katherine Daniels](https://twitter.com/beerops)
 * [Sysadmin Casts](https://sysadmincasts.com/): Bite-sized sysadmin screencasts (released weekly)
+* [Continuous Delivery](http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912): By [Jez Humble](https://twitter.com/jezhumble) and [David Farley](http://www.davefarley.net/)
 
 ## Conferences & Meetups
 
