@@ -31,6 +31,7 @@ Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com
 ## Conferences & Meetups
 
 * [AWS re:Invent](https://reinvent.awsevents.com/)
+* [Config Management Camp](http://cfgmgmtcamp.eu/)
 * [DevOps Days](http://www.devopsdays.org/)
 * [Docker Meetups](https://www.docker.com/community/meetup-groups)
 * [Monitorama](http://monitorama.com/)
