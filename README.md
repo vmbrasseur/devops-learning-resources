@@ -13,6 +13,7 @@ Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com
 * [DevOps Bootcamp](http://devopsbootcamp.osuosl.org/) at [Oregon State University Open Source Lab (OSU OSL)](http://osuosl.org/) in Corvalis, Oregon, USA
 * [Master Programme in Network and System Administration](https://www.hioa.no/eng/Studies/TKD/Master/Network-and-System-Administration) at [Oslo and Akershus University College of Applied Sciences](https://www.hioa.no/eng) in Oslo, Norway
 * [Ops School Curriculum](http://www.opsschool.org) ([GitHub](https://github.com/opsschool/curriculum))
+* [O'Reilly: Programming for Sysadmins Learning Path ](http://shop.oreilly.com/category/learning-path/programming-for-sysadmins.do)
 
 ## Books & Blogs
 
