@@ -20,6 +20,7 @@ Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com
 * [Continuous Delivery](http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912): By [Jez Humble](https://twitter.com/jezhumble) and [David Farley](http://www.davefarley.net/)
 * [DevOps Weekly](http://www.devopsweekly.com/): Weekly newsletter of all-things-DevOps
 * [Effective DevOps](http://shop.oreilly.com/product/0636920039846.do) by [Jennifer Davis](https://twitter.com/sigje) and [Katherine Daniels](https://twitter.com/beerops)
+* [Scalar Software](http://scalarsoftware.com/) DevOps Blog
 * [Server Density DevOps Newsletter](https://blog.serverdensity.com/devops-newsletter/)
 * [Sysadmin Casts](https://sysadmincasts.com/): Bite-sized sysadmin screencasts (released weekly)
 
