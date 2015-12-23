@@ -9,6 +9,7 @@ Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com
 ## Schools & Learning Programs
 
 * [AWS Training and Certification](https://aws.amazon.com/training/)
+* [BCS Professional Certification](http://certifications.bcs.org/)
 * [CAT Braindump](http://braindump.cat.pdx.edu/) at [Portland State University](https://www.pdx.edu/) in Portland, Oregon, USA
 * [DevOps Bootcamp](http://devopsbootcamp.osuosl.org/) at [Oregon State University Open Source Lab (OSU OSL)](http://osuosl.org/) in Corvalis, Oregon, USA
 * [Master Programme in Network and System Administration](https://www.hioa.no/eng/Studies/TKD/Master/Network-and-System-Administration) at [Oslo and Akershus University College of Applied Sciences](https://www.hioa.no/eng) in Oslo, Norway
@@ -26,16 +27,30 @@ Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com
 
 ## Podcasts
 
-* [The Ship Show](http://theshipshow.com/)
+* [Arrested DevOps](https://www.arresteddevops.com/)
+* [DevOps Cafe](http://devopscafe.org/)
+* [Ship Show](http://theshipshow.com/)
 * [The Food Fight Show](http://foodfightshow.org/)
 * [Ops All The Things](https://www.opsallthethings.com/)
 
 ## Conferences & Meetups
 
 * [AWS re:Invent](https://reinvent.awsevents.com/)
+* [Cascadia IT](http://casitconf.org/)
+* [ChefConf](https://www.chef.io/chefconf/)
 * [Config Management Camp](http://cfgmgmtcamp.eu/)
 * [DevOps Days](http://www.devopsdays.org/)
+* [DevOps Enterprise Summit](http://devopsenterprise.io/)
 * [Docker Meetups](https://www.docker.com/community/meetup-groups)
+* [LCA](http://linux.conf.au/)
+* [LISA](https://www.usenix.org/conferences)
+* [LOPSA-EAST](http://lopsaeast.org/)
+* [LOPSA local chapter meetups](https://lopsa.org/Chapters)
 * [Monitorama](http://monitorama.com/)
+* [OLF](https://ohiolinux.org/)
 * [OpenStack Summit](https://www.openstack.org/summit/)
+* [OSCON](http://conferences.oreilly.com/oscon/)
+* [PuppetConf](https://puppetconf.com/)
+* [SCALE](https://www.socallinuxexpo.org/)
+* [SREcon and SREcon Europe](https://www.usenix.org/conferences)
 * [Velocity](http://conferences.oreilly.com/velocity)
