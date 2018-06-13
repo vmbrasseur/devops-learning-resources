@@ -12,6 +12,7 @@ Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com
 * [BCS Professional Certification](http://certifications.bcs.org/)
 * [CAT Braindump](http://braindump.cat.pdx.edu/) at [Portland State University](https://www.pdx.edu/) in Portland, Oregon, USA
 * [DevOps Bootcamp](http://devopsbootcamp.osuosl.org/) at [Oregon State University Open Source Lab (OSU OSL)](http://osuosl.org/) in Corvalis, Oregon, USA
+* [DevOps Foundation Training](https://www.knowledgetrain.co.uk/courses/devops) at [Knowledge Train](https://www.knowledgetrain.co.uk) in London, UK
 * [Master Programme in Network and System Administration](https://www.hioa.no/eng/Studies/TKD/Master/Network-and-System-Administration) at [Oslo and Akershus University College of Applied Sciences](https://www.hioa.no/eng) in Oslo, Norway
 * [Ops School Curriculum](http://www.opsschool.org) ([GitHub](https://github.com/opsschool/curriculum))
 * [O'Reilly: Programming for Sysadmins Learning Path ](http://shop.oreilly.com/category/learning-path/programming-for-sysadmins.do)
@@ -19,11 +20,13 @@ Spawned by [this conversation and blog post](http://anonymoushash.vmbrasseur.com
 ## Books & Blogs
 
 * [Continuous Delivery](http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912): By [Jez Humble](https://twitter.com/jezhumble) and [David Farley](http://www.davefarley.net/)
+* [DevOps Careers](https://www.knowledgetrain.co.uk/resources/careers/devops-careers)
 * [DevOps Weekly](http://www.devopsweekly.com/): Weekly newsletter of all-things-DevOps
 * [Effective DevOps](http://shop.oreilly.com/product/0636920039846.do) by [Jennifer Davis](https://twitter.com/sigje) and [Katherine Daniels](https://twitter.com/beerops)
 * [Scalar Software](http://scalarsoftware.com/) DevOps Blog
 * [Server Density DevOps Newsletter](https://blog.serverdensity.com/devops-newsletter/)
 * [Sysadmin Casts](https://sysadmincasts.com/): Bite-sized sysadmin screencasts (released weekly)
+* [Top Ten DevOps Books](https://www.knowledgetrain.co.uk/resources/practice/top-ten-devops-books)
 
 ## Podcasts
 
